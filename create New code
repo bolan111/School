@@ -1,6 +1,0 @@
-#include <iosteam>
-using namespace std;
-int main(){
-cout<<"Hello Bola"<<endl;
-return 0;
-}
