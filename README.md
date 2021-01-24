@@ -1,3 +1,6 @@
 # School
 School Project
-Names Student
+
+Names of Students
+
+Numbers of Students
